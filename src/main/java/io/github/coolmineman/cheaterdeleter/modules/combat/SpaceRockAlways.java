@@ -2,6 +2,7 @@ package io.github.coolmineman.cheaterdeleter.modules.combat;
 
 import io.github.coolmineman.cheaterdeleter.events.PacketCallback;
 import io.github.coolmineman.cheaterdeleter.modules.CDModule;
+import io.github.coolmineman.cheaterdeleter.modules.combat.SpaceRockAlways.B;
 import io.github.coolmineman.cheaterdeleter.objects.PlayerMoveC2SPacketView;
 import io.github.coolmineman.cheaterdeleter.objects.entity.CDPlayer;
 import net.minecraft.network.Packet;
